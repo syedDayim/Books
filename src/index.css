@@ -10650,15 +10650,18 @@ a.has-text-danger-dark:hover {
 .book-create form input {
   margin-bottom: 5px;
 }
+
 .book-list {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
   margin: auto;
   max-width: 1024px;
-  max-height: 675px;
+  max-height: 508px;
   overflow-y: auto;
 }
+
+
 @media screen and (max-width: 960px) {
   .book-list {
     align-items: center;
@@ -10747,3 +10750,13 @@ a.has-text-danger-dark:hover {
   width: 20px;
   z-index: 10;
 }
+
+
+
+
+
+
+
+
+
+
